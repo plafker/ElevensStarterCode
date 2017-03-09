@@ -1,3 +1,6 @@
+
+import Activity02.Deck;
+
 /**
  * This is a class that tests the Deck class using assert statements.
  */
